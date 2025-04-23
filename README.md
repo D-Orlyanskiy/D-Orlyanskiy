@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dmitriy!
 
-<!--
-**D-Orlyanskiy/D-Orlyanskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS Developer with 4+ years of experience building mobile apps with Swift, SwiftUI, and UIKit. I enjoy writing clean, modular code, improving architecture, and delivering apps that scale and perform.
 
-Here are some ideas to get you started:
+In my recent role at **QIWI**, I migrated legacy UI to **SwiftUI**, modularized the codebase with **SPM**, and contributed to cross-platform features using **Kotlin Multiplatform**. I love sharing knowledge with teammates, mentoring, and exploring better development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+
+- ⚙️ Clean architecture & MVVM
+- 🧪 XCTest / XCUITest & CI/CD pipelines
+- 📱 SwiftUI integration in production apps
+
+Always open to collaboration, interesting projects, or just connecting with fellow devs. Let’s build something cool together!
+
+## 📫 Get in Touch
+- Email: [orlyanskiy.work@gmail.com](mailto:orlyanskiy.work@gmail.com)  
+- LinkedIn: [linkedin.com/in/d-orlyanskiy](https://www.linkedin.com/in/d-orlyanskiy)  
