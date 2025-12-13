@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Dmitriy — iOS Developer
+# 👋 Hi, I'm Dmitriy — iOS Engineer
 
-I’m an iOS developer with 5+ years of experience building and evolving large-scale consumer and fintech applications. Currently, I work at **GoInvest**, where I develop investment features used by thousands of users daily.
+I’m an iOS Engineer with 5+ years of experience building and evolving large-scale consumer and fintech applications. Currently, I work at **GoInvest**, where I develop investment features used by thousands of users daily.
 
 My core focus is building reliable, user-friendly interfaces with **SwiftUI and UIKit**, maintaining clean architecture, and delivering features end-to-end — from requirements and implementation to release and support in production.
 
